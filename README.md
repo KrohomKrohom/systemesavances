@@ -9,3 +9,6 @@
 
 *problématique pour les SSD*
 - Pourquoi ext4 n'est pas adapté pour un SSD?
+
+*Lien google drive*
+https://drive.google.com/drive/folders/1ContvhgFmvNSo6T76BndFlAAjkxnhOdI?usp=sharing
